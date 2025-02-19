@@ -52,7 +52,7 @@ Sempre compartilho novas ideias, tutoriais de frontend e código de qualidade. V
 <div style="text-align: center;"> <h3 style="color: #333;">Conecte-se comigo!</h3> <a href="https://www.linkedin.com/in/seuperfil/" style="text-decoration: none; font-size: 18px; color: #0077b5; transition: all 0.3s ease;"> <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/seuperfil" style="text-decoration: none; font-size: 18px; color: #1da1f2; transition: all 0.3s ease;"> <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> </div>
 
 
-/* Animação de texto */
+
 @keyframes slideIn {
   from {
     opacity: 0;
@@ -64,14 +64,14 @@ Sempre compartilho novas ideias, tutoriais de frontend e código de qualidade. V
   }
 }
 
-/* Estilo para o título */
+
 h1 {
   font-size: 36px;
   animation: slideIn 1s ease-out;
   color: #61dafb;
 }
 
-/* Efeito de hover nos links */
+
 a {
   transition: color 0.3s ease;
 }
@@ -80,7 +80,7 @@ a:hover {
   color: #ff6347;
 }
 
-/* Animação de rotação no logo */
+
 @keyframes rotateLogo {
   from {
     transform: rotate(0deg);
