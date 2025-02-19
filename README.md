@@ -7,15 +7,15 @@ Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em in
 ## 🚀 O que você vai encontrar aqui?
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <div style="text-align: center;">
+  <div style="text-align: center; animation: popIn 1s ease;">
     <h3 style="color: #61dafb;">💻 Projetos</h3>
     <p style="font-size: 14px;">Desenvolvimento de projetos do zero com boas práticas de código.</p>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; animation: popIn 1s ease 0.2s;">
     <h3 style="color: #61dafb;">📝 Dicas & Tutoriais</h3>
     <p style="font-size: 14px;">Compartilho aprendizado e soluções criativas para problemas de front-end.</p>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; animation: popIn 1s ease 0.4s;">
     <h3 style="color: #61dafb;">🔧 Ferramentas</h3>
     <p style="font-size: 14px;">Utilizo tecnologias modernas e eficientes para otimizar o desenvolvimento.</p>
   </div>
@@ -49,14 +49,23 @@ Sempre compartilho novas ideias, tutoriais de frontend e código de qualidade. V
 
 "A beleza do código não está só no que ele faz, mas na forma como ele é feito!" ✨🎨
 
-<div style="text-align: center;"> <h3 style="color: #333;">Conecte-se comigo!</h3> <a href="https://www.linkedin.com/in/seuperfil/" style="text-decoration: none; font-size: 18px; color: #0077b5; transition: all 0.3s ease;"> <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/seuperfil" style="text-decoration: none; font-size: 18px; color: #1da1f2; transition: all 0.3s ease;"> <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> </div>
+<div style="text-align: center; animation: fadeInUp 1s ease;"> <h3 style="color: #333;">Conecte-se comigo!</h3> <a href="https://www.linkedin.com/in/seuperfil/" style="text-decoration: none; font-size: 18px; color: #0077b5; transition: all 0.3s ease;"> <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://twitter.com/seuperfil" style="text-decoration: none; font-size: 18px; color: #1da1f2; transition: all 0.3s ease;"> <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> </div>
 
+@keyframes popIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) rotateX(45deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotateX(0deg);
+  }
+}
 
-
-@keyframes slideIn {
+@keyframes fadeInUp {
   from {
     opacity: 0;
-    transform: translateY(-50px);
+    transform: translateY(20px);
   }
   to {
     opacity: 1;
@@ -64,35 +73,33 @@ Sempre compartilho novas ideias, tutoriais de frontend e código de qualidade. V
   }
 }
 
-
-h1 {
-  font-size: 36px;
-  animation: slideIn 1s ease-out;
-  color: #61dafb;
-}
-
-
 a {
-  transition: color 0.3s ease;
+  transition: transform 0.3s ease, color 0.3s ease;
 }
 
 a:hover {
+  transform: perspective(500px) rotateY(15deg);
   color: #ff6347;
-}
-
-
-@keyframes rotateLogo {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
 
 img {
   animation: rotateLogo 2s infinite linear;
+  transform-style: preserve-3d;
 }
 
+@keyframes rotateLogo {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
 
+section {
+  transition: box-shadow 0.3s ease;
+}
 
+section:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2), 0 15px 40px rgba(0, 0, 0, 0.1);
+}
