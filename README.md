@@ -4,6 +4,8 @@
 
 Oi! Sou um desenvolvedor **Full-Stack** apaixonado por transformar ideias em interfaces digitais incríveis e robustas soluções de backend. Explore meus projetos e descubra como estou constantemente aprendendo e inovando com **React**, **Vue**, **Angular**, **React Native**, **Vite**, **Next**, **Ionic**, **C#**, **Node.js**, **Python**, e muito mais!
 
+---
+
 ## 🚀 O que você vai encontrar aqui?
 
 ### 🛠️ **Ferramentas e Tecnologias**
@@ -35,22 +37,16 @@ Oi! Sou um desenvolvedor **Full-Stack** apaixonado por transformar ideias em int
    - Criação de uma API em **Node.js** para enviar notificações push em tempo real para usuários.
    - Integração com **Firebase** e **Socket.io**.
 
-#### 🔹 **Principais Habilidades**
-- Desenvolvedor Full-Stack com foco em Front-End e Back-End
-- Experiência em frameworks como **React**, **Vue**, **Angular**, **Next.js**, **Node.js** e **Ionic**.
-- Proficiente em integração de APIs, bancos de dados **SQL** e **NoSQL** (MongoDB, MySQL, PostgreSQL).
-- Desenvolvimento de aplicações escaláveis, microserviços e **Serverless** com **Node.js**.
-
 ---
 
-## 📈 **Estatísticas de GitHub**
+### 📈 **Estatísticas de GitHub**
 
-### 🔥 **Meus Contribuições Recentes**
+#### 🔥 **Meus Contribuições Recentes**
 ![Contribuições GitHub](https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=radical&hide_border=true)
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&langs_count=6&layout=compact&theme=radical" alt="Top Linguagens" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&langs_count=6&layout=compact&theme=radical" alt="Top Linguagens" width="48%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;" />
 </div>
 
 ---
@@ -58,19 +54,19 @@ Oi! Sou um desenvolvedor **Full-Stack** apaixonado por transformar ideias em int
 ## 🛠️ **Tecnologias que uso**
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Angular-d80000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Ionic-3880ff?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
-  <img src="https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/Angular-d80000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React Native" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/Ionic-3880ff?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
 </div>
 
 ---
