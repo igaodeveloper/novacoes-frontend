@@ -1,8 +1,8 @@
 # 👨‍💻 Bem-vindo ao meu GitHub!
 
-![Logo animada](https://img.shields.io/badge/Developer-Font%20End-blue?style=for-the-badge&logo=github&logoColor=white)
+![Logo animada](https://img.shields.io/badge/Developer-Full%20Stack-blue?style=for-the-badge&logo=github&logoColor=white)
 
-Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em interfaces digitais incríveis. Explore meus projetos e descubra como estou constantemente aprendendo e inovando com **React**, **Vue**, **Angular**, **React Native**, **Vite**, **Next**, **Ionic**, **C#**, **Node.js**, **Python**, e muito mais!
+Oi! Sou um desenvolvedor **Full-Stack** apaixonado por transformar ideias em interfaces digitais incríveis e robustas soluções de backend. Explore meus projetos e descubra como estou constantemente aprendendo e inovando com **React**, **Vue**, **Angular**, **React Native**, **Vite**, **Next**, **Ionic**, **C#**, **Node.js**, **Python**, e muito mais!
 
 ## 🚀 O que você vai encontrar aqui?
 
@@ -11,12 +11,13 @@ Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em in
 - **Desenvolvimento Mobile:** React Native
 - **Back-End:** Node.js, Python, C#
 - **Design & Ferramentas:** Figma, Tailwind CSS, SASS, Webpack, Git, GitHub Actions, Docker
-- **Deployment:** Vercel, Netlify, Heroku
+- **Database:** MongoDB, MySQL, PostgreSQL, Firebase
+- **Deployment:** Vercel, Netlify, Heroku, AWS, Docker
 
 ---
 
 ### 💼 **Experiência Profissional**
-> "Tenho experiência criando interfaces dinâmicas e eficientes que não só atendem às necessidades dos usuários, mas também proporcionam uma experiência visual incrível."
+> "Tenho experiência criando interfaces dinâmicas e eficientes no front-end, além de construir APIs robustas e escaláveis no back-end."
 
 #### 🔹 **Projetos Recentes**
 1. **[App de Clima](#)**  
@@ -28,13 +29,17 @@ Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em in
    - Desenvolvido com **React** e **CSS3**.
 
 3. **[Sistema de Tarefas](#)**  
-   - Gestão de tarefas, criando e atualizando tarefas com integração em **Node.js** e **MongoDB**.
+   - Gestão de tarefas, criando e atualizando tarefas com integração em **Node.js**, **MongoDB** e **Express**.
+
+4. **[API de Notificações Push](#)**  
+   - Criação de uma API em **Node.js** para enviar notificações push em tempo real para usuários.
+   - Integração com **Firebase** e **Socket.io**.
 
 #### 🔹 **Principais Habilidades**
-- Desenvolvedor Full-stack com foco em Front-End
-- Experiência em frameworks como **React**, **Vue**, **Angular**, **Next.js** e **Ionic**.
-- Proficiente no uso de **Node.js** e **Python** para Backend.
-- Otimização e desenvolvimento de UI com **CSS**, **SASS**, **Tailwind CSS**.
+- Desenvolvedor Full-Stack com foco em Front-End e Back-End
+- Experiência em frameworks como **React**, **Vue**, **Angular**, **Next.js**, **Node.js** e **Ionic**.
+- Proficiente em integração de APIs, bancos de dados **SQL** e **NoSQL** (MongoDB, MySQL, PostgreSQL).
+- Desenvolvimento de aplicações escaláveis, microserviços e **Serverless** com **Node.js**.
 
 ---
 
@@ -63,6 +68,9 @@ Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em in
   <img src="https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ---
@@ -72,21 +80,29 @@ Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em in
 ### 🏆 **Contribuições no Open Source**
 Confira algumas das minhas contribuições para projetos open source:
 
-- **[Repositório de Exemplo 1](#)**
-- **[Repositório de Exemplo 2](#)**
+- **[Projeto de API de Notificações](https://github.com/seu-username/api-notificacoes)**  
+  Contribuí com melhorias na autenticação de usuários e na estrutura de mensagens em tempo real, usando **Node.js** e **Socket.io**.
 
-### 🚀 **Meus Projetos Populares**
-- **[Projeto Open Source 1](#)**  
-   Contribua para o nosso projeto colaborativo usando **React** e **Node.js**.
+- **[Sistema de Tarefas Open Source](https://github.com/seu-username/sistema-de-tarefas)**  
+  Ajudei a otimizar o back-end e implementei a integração com **MongoDB** para melhorar o gerenciamento de tarefas.
 
-- **[Projeto Open Source 2](#)**  
-   Um sistema de gerenciamento de tarefas com **Vue.js** e **Firebase**.
+- **[Repositório de Componentes UI](https://github.com/seu-username/componentes-ui)**  
+  Contribuí criando novos componentes reutilizáveis em **React**, melhorando a acessibilidade e a performance do front-end.
+
+- **[Boilerplate Full-Stack com Next.js e Node](https://github.com/seu-username/next-node-boilerplate)**  
+  Desenvolvi um boilerplate completo para facilitar a criação de projetos Full-Stack com **Next.js** no front-end e **Node.js** no back-end.
+
+#### 🔹 **Principais Habilidades**
+- Desenvolvedor Full-Stack com foco em Front-End e Back-End
+- Experiência em frameworks como **React**, **Vue**, **Angular**, **Next.js**, **Node.js** e **Ionic**.
+- Proficiente em integração de APIs, bancos de dados **SQL** e **NoSQL** (MongoDB, MySQL, PostgreSQL).
+- Desenvolvimento de aplicações escaláveis, microserviços e **Serverless** com **Node.js**.
 
 ---
 
 ## 🌱 **Vamos aprender juntos!**
 
-Sempre compartilho novas ideias, tutoriais de frontend e código de qualidade. Você está pronto para o próximo nível? 👨‍💻
+Sempre compartilho novas ideias, tutoriais de frontend e backend e código de qualidade. Você está pronto para o próximo nível? 👨‍💻
 
 > **Dica:** Faça um **fork** de algum dos meus repositórios e comece a contribuir! 🚀
 
