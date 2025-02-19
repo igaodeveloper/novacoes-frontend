@@ -6,26 +6,51 @@ Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em in
 
 ## 🚀 O que você vai encontrar aqui?
 
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <div style="text-align: center; animation: popIn 1s ease;">
-    <h3 style="color: #61dafb;">💻 Projetos</h3>
-    <p style="font-size: 14px;">Desenvolvimento de projetos do zero com boas práticas de código.</p>
-  </div>
-  <div style="text-align: center; animation: popIn 1s ease 0.2s;">
-    <h3 style="color: #61dafb;">📝 Dicas & Tutoriais</h3>
-    <p style="font-size: 14px;">Compartilho aprendizado e soluções criativas para problemas de front-end.</p>
-  </div>
-  <div style="text-align: center; animation: popIn 1s ease 0.4s;">
-    <h3 style="color: #61dafb;">🔧 Ferramentas</h3>
-    <p style="font-size: 14px;">Utilizo tecnologias modernas e eficientes para otimizar o desenvolvimento.</p>
-  </div>
+### 🛠️ **Ferramentas e Tecnologias**
+- **Desenvolvimento Front-End:** React, Vue, Angular, Next.js, Vite, Ionic
+- **Desenvolvimento Mobile:** React Native
+- **Back-End:** Node.js, Python, C#
+- **Design & Ferramentas:** Figma, Tailwind CSS, SASS, Webpack, Git, GitHub Actions, Docker
+- **Deployment:** Vercel, Netlify, Heroku
+
+---
+
+### 💼 **Experiência Profissional**
+> "Tenho experiência criando interfaces dinâmicas e eficientes que não só atendem às necessidades dos usuários, mas também proporcionam uma experiência visual incrível."
+
+#### 🔹 **Projetos Recentes**
+1. **[App de Clima](#)**  
+   - Aplicação responsiva com previsão do tempo em tempo real.
+   - Usando **React**, **API do OpenWeatherMap**, **Styled-Components**.
+
+2. **[Portfólio Animado](#)**  
+   - Portfólio interativo com animações fluidas.
+   - Desenvolvido com **React** e **CSS3**.
+
+3. **[Sistema de Tarefas](#)**  
+   - Gestão de tarefas, criando e atualizando tarefas com integração em **Node.js** e **MongoDB**.
+
+#### 🔹 **Principais Habilidades**
+- Desenvolvedor Full-stack com foco em Front-End
+- Experiência em frameworks como **React**, **Vue**, **Angular**, **Next.js** e **Ionic**.
+- Proficiente no uso de **Node.js** e **Python** para Backend.
+- Otimização e desenvolvimento de UI com **CSS**, **SASS**, **Tailwind CSS**.
+
+---
+
+## 📈 **Estatísticas de GitHub**
+
+### 🔥 **Meus Contribuições Recentes**
+![Contribuições GitHub](https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=radical&hide_border=true)
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&langs_count=6&layout=compact&theme=radical" alt="Top Linguagens" width="48%" />
 </div>
 
-## ✨ O que me motiva?
+---
 
-**Criar soluções inovadoras e esteticamente agradáveis com código.** Seja em **React**, **Vue.js**, **Angular**, **React Native**, **Vite**, **Next**, **Ionic**, **C#**, **Node.js**, **Python**, ou apenas no puro **HTML/CSS**, minha missão é proporcionar a melhor experiência para o usuário.
-
-## 🛠️ Tecnologias que uso
+## 🛠️ **Tecnologias que uso**
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 10px;">
   <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -40,25 +65,52 @@ Oi! Sou um desenvolvedor Front-End Pleno apaixonado por transformar ideias em in
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-## 🌟 Projetos em Destaque
+---
 
-- **[Projeto 1](#)**  
-  Um app de clima super interativo, com animações fluidas e responsividade.
-  
-- **[Projeto 2](#)**  
-  Um portfólio animado que usa as mais recentes técnicas de CSS e JavaScript.
-  
-- **[Projeto 3](#)**  
-  Uma página de destino de produto com transições suaves e design minimalista.
+## 🎮 **Conquistas do GitHub**
 
-## 🌈 Vamos aprender juntos!
+### 🏆 **Contribuições no Open Source**
+Confira algumas das minhas contribuições para projetos open source:
+
+- **[Repositório de Exemplo 1](#)**
+- **[Repositório de Exemplo 2](#)**
+
+### 🚀 **Meus Projetos Populares**
+- **[Projeto Open Source 1](#)**  
+   Contribua para o nosso projeto colaborativo usando **React** e **Node.js**.
+
+- **[Projeto Open Source 2](#)**  
+   Um sistema de gerenciamento de tarefas com **Vue.js** e **Firebase**.
+
+---
+
+## 🌱 **Vamos aprender juntos!**
 
 Sempre compartilho novas ideias, tutoriais de frontend e código de qualidade. Você está pronto para o próximo nível? 👨‍💻
+
+> **Dica:** Faça um **fork** de algum dos meus repositórios e comece a contribuir! 🚀
+
+---
+
+## 🏆 **Badges de Contribuições**
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-blue?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/-Hacktoberfest%202024-green?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest 2024" />
+  <img src="https://img.shields.io/badge/-React%20Master-brightgreen?style=for-the-badge&logo=react&logoColor=white" alt="React Master" />
+  <img src="https://img.shields.io/badge/-Node.js%20Expert-blue?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Expert" />
+</div>
+
+---
+
+## 🌟 **Projeções do Futuro**
+
+Estou constantemente aprendendo e me desafiando a melhorar meu conjunto de habilidades. Nos próximos meses, quero explorar mais sobre **Machine Learning com Python**, **Serverless** com **Node.js**, e criar mais **apps mobile** com **React Native**.
 
 ---
 
 > "A beleza do código não está só no que ele faz, mas na forma como ele é feito!" ✨🎨
-  
+
 ---
 
 <div style="text-align: center; animation: fadeInUp 1s ease;">
